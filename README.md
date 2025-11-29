@@ -16,7 +16,7 @@ Idlemation is a lightweight, customizable and easy-to-modify ASCII animation eng
 4. idlemation.exe includes the GUI, which allows you to change config settings easily
 5. engine.exe just runs the animation
 6. idlemation-shortcut.lnk is created in the startup folder and turning run_on_startup on results in the animation being run soon after the computer is opened
-7. $${\color{red}PRECAUTION} : you must run the animation through idlemation.exe or engine.exe once before idlemation-shortcut.lnk is created
+7. $${\color{red}PRECAUTION}$$ : you must run the animation through idlemation.exe or engine.exe once before idlemation-shortcut.lnk is created
 
 # How to Modify the Source Code
 1. Download SOURCECODE
