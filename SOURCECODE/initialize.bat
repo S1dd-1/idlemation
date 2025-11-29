@@ -21,17 +21,17 @@ if not exist "..\idlemation\dist\engine\Animations" mkdir "..\IDLEMATION\dist\en
 REM Copy animations folder
 xcopy ".\Assets\Animations" "..\IDLEMATION\dist\engine\Animations" /E /I /Y >nul
 
-REM ===== ANIMATIONS FOLDER SUCCESSFUL =====
+echo ===== ANIMATIONS FOLDER SUCCESSFUL =====
 
 REM Copy icon
 copy ".\Assets\idlemation_icon.ico" "..\IDLEMATION\dist\engine" >nul
 
-REM ===== ICON SUCCESSFUL =====
+echo ===== ICON SUCCESSFUL =====
 
 REM Copy README
 copy ".\README.md" "..\IDLEMATION" >nul
 
-REM ===== README SUCCESSFUL =====
+echo ===== README SUCCESSFUL =====
 
 echo ===== ALL BUILDS DONE =====
 pause
