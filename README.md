@@ -10,7 +10,7 @@ Idlemation is a lightweight, customizable and easy-to-modify ASCII animation eng
 5. Easy to modify source code alongside exe app building
 
 ## How to Run
-1. Download IDLEMATION
+1. Download IDLEMATION from latest release
 2. Go to IDLEMATION/dist/engine
 3. There you can find two executable files: idlemation.exe and engine.exe
 4. idlemation.exe includes the GUI, which allows you to change config settings easily
@@ -19,7 +19,7 @@ Idlemation is a lightweight, customizable and easy-to-modify ASCII animation eng
 7. PRECAUTION : you must run the animation through idlemation.exe or engine.exe once before idlemation-shortcut.lnk is created
 
 ## How to Modify the Source Code
-1. Download SOURCECODE
+1. Download SOURCECODE from github repository
 2. There you can see two folders, ASSETS and PYTHONFILES
 3. Inside PYTHONFILES, you can edit idlemation.py, converter.py, and engine.pyw
 4. idlemation.py controls the GUI and config file initialization
