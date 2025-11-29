@@ -2,6 +2,16 @@
 
 Idlemation is a lightweight, customizable and easy-to-modify ASCII animation engine for Windows that plays frame-by-frame animations on top of the desktop.
 
+NOTE : IDLEMATION creates a startup shortcut so your animations can run when your computer boots. Because it modifies the Windows Startup folder, Windows Defender may flag it as an unfamiliar app. This is expected behavior, IDLEMATION does not access the internet, install services, or modify system files. It only creates a single .lnk shortcut.
+
+If Windows blocks it the first time:
+1. Run idlemation.exe once
+2. When the Windows Defender prompt appears, click More info → Run anyway.
+3. Run the animation once through idlemation.exe or engine.exe.
+4. Press Win + R and type shell:startup. You should see idlemation-shortcut.lnk.
+5. Double-click the shortcut; if Windows prompts again, choose More info → Run anyway.
+6. After this, Windows will trust the shortcut and IDLEMATION will launch normally on startup.
+
 ## Features
 1. Runs a frame-by-frame ASCII art animation on the desktop (Well. Above it, but below all other programs)
 2. Allows a wide array of customization options such as choosing and importing animations, changing colours, opacity and more
