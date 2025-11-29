@@ -27,4 +27,4 @@ Idlemation is a lightweight, customizable and easy-to-modify ASCII animation eng
 6. engine.pyw controls the running of the animation and startup shortcut initialization
 
 
-$${\color{purple}Made by S1dd-1 on github :)}$$
+$${\color{purple}Made \space by \space S1dd-1 \space on \space github :)}$$
