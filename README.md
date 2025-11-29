@@ -26,4 +26,5 @@ Idlemation is a lightweight, customizable and easy-to-modify ASCII animation eng
 5. converter.py controls the conversion of .mp4 files to ASCII animation .txt files
 6. engine.pyw controls the running of the animation and startup shortcut initialization
 
-Made by S1dd-1 on github :)
+
+$${\color{purple}Made by S1dd-1 on github :)}$$
