@@ -29,5 +29,9 @@ xcopy ".\Assets\Animations" "..\idlemation\dist\engine\Animations" /E /I /Y >nul
 REM Copy icon
 copy ".\Assets\idlemation_icon.ico" "..\idlemation\dist\engine" >nul
 
+REM Copy README
+copy ".\Assets\README.md" "..\idlemation\dist\engine" >nul
+
 echo ===== ALL BUILDS DONE =====
 pause
+
