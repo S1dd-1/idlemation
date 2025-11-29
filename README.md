@@ -18,7 +18,7 @@ Idlemation is a lightweight, customizable and easy-to-modify ASCII animation eng
 6. idlemation-shortcut.lnk is created in the startup folder and turning run_on_startup on results in the animation being run soon after the computer is opened
 7. $${\color{red}PRECAUTION}$$ : you must run the animation through idlemation.exe or engine.exe once before idlemation-shortcut.lnk is created
 
-# How to Modify the Source Code
+## How to Modify the Source Code
 1. Download SOURCECODE
 2. There you can see two folders, ASSETS and PYTHONFILES
 3. Inside PYTHONFILES, you can edit idlemation.py, converter.py, and engine.pyw
